@@ -1,9 +1,9 @@
-class Application 
+class Application
 
   def call(env)
 
 
-    resp.finish 
-  end 
+    resp.finish
+  end
 
 end 
